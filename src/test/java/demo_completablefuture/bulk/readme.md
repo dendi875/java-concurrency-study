@@ -1,0 +1,1 @@
+## 批量操作 CompletableFuture 的方法
